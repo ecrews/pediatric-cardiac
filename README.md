@@ -3,7 +3,8 @@ Pediatric Cardiac is an experimental augmented reality telemedicine app for Micr
 
 Presentation slides can be found [here](https://docs.google.com/presentation/d/1mQ3qo0BWM5oNAb1oxyroSdowLIcqQ6DHoYo7JqhTh0w/edit?usp=sharing).
 
-
+## Video 
+[![video-thumbnail](https://i.ytimg.com/vi/LLCbhU-2gFY/1.jpg)](https://youtu.be/LLCbhU-2gFY)
 
 ## Deployment Instructions
 1. First, download 'Pediatric Cardiac_1.0.0.0_x86.appxbundle' from the repository. Save it in an easy to remember place.
@@ -16,6 +17,3 @@ Presentation slides can be found [here](https://docs.google.com/presentation/d/1
 8. Select 'Go' under 'Deploy'.
 9. After installation has finished, turn on your HoloLens and locate the app titled "Pediatric Cardiac".
 10. Start the app.
-
-# pediatric-cardiac
-EECS 498 010 FA 2017
